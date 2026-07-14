@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sliding Window
 |  |
@@ -52,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0142-linked-list-cycle-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
