@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0125-valid-palindrome) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
