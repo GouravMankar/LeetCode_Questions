@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -69,9 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
