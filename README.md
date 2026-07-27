@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0771-jewels-and-stones) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0771-jewels-and-stones) |
 | [3110-score-of-a-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3110-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Linked List
 |  |
 | ------- |
