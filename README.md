@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0142-linked-list-cycle-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0012-integer-to-roman) |
 | [0509-fibonacci-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0125-valid-palindrome) |
 ## Linked List
