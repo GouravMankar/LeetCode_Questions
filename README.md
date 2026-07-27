@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
