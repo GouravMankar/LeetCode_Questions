@@ -1,8 +1,5 @@
 class Solution {
     public int minPairSum(int[] nums) {
-        if(nums.length==2){
-            return Math.max(nums[0],nums[1]);
-        }
         Arrays.sort(nums);
         int max=nums[0]+nums[nums.length-1];
         int i=1;
