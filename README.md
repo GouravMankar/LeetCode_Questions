@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1025-divisor-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sliding Window
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
