@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0905-sort-array-by-parity) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0771-jewels-and-stones) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
