@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0724-find-pivot-index) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0771-jewels-and-stones) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -204,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
