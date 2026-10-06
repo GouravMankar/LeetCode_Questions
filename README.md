@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3110-score-of-a-string) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String Matching
 |  |
@@ -239,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0176-second-highest-salary) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
