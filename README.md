@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0713-subarray-product-less-than-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,12 +182,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting
 |  |
 | ------- |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String Matching
 |  |
 | ------- |
