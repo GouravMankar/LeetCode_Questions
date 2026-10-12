@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0771-jewels-and-stones) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Binary Search
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String Matching
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0268-missing-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bucket Sort
 |  |
 | ------- |
