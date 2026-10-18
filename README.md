@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
