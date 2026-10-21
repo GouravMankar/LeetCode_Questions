@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Linked List
 |  |
 | ------- |
