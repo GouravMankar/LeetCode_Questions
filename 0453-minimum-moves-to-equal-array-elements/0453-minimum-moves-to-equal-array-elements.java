@@ -33,6 +33,7 @@ class Solution {
     //    } 
     //    return count;
 
+    // more optimize one
         int min = Integer.MAX_VALUE;
         int sum = 0;
 
@@ -45,5 +46,6 @@ class Solution {
 
         return moves;
     
+
     }
 }
