@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1004-max-consecutive-ones-iii) |
