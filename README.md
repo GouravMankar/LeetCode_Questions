@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0567-permutation-in-string) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0287-find-the-duplicate-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -486,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
