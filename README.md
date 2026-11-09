@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## String
 |  |
