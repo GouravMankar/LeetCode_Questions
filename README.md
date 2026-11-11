@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -519,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
