@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1254-number-of-closed-islands](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/GouravMankar/LeetCode_Questions/tree/master/2235-add-two-integers) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -549,4 +552,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/GouravMankar/LeetCode_Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
