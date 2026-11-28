@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0202-happy-number) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1025-divisor-game) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/GouravMankar/LeetCode_Questions/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/GouravMankar/LeetCode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Simulation
